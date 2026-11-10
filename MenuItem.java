@@ -1,3 +1,10 @@
+/**
+ * Abstract parent class for items sold in the campus cafe.
+ *
+ * @author Jayson A. Tulbo
+ * @author Gilbert B. Sanchez
+ * @version 1.0
+ */
 public abstract class MenuItem {
     protected String name;
     protected double basePrice;
