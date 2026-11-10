@@ -1,3 +1,10 @@
+/**
+ * Represents a beverage whose price depends on its size.
+ *
+ * @author Jayson A. Tulbo
+ * @author Gilbert B. Sanchezh
+ * @version 1.0
+ */
 public class Beverage extends MenuItem {
     private String size;
 
