@@ -1,3 +1,10 @@
+/**
+ * Main class of the Campus Cafe Ordering System.
+ *
+ * @author Jayson A. Tulbo
+ * @author Gilbert B. Sanchez
+ * @version 1.0
+ */
 public class CafeApp {
 
     
