@@ -1,3 +1,10 @@
+/**
+ * Represents a customer and tracks loyalty points.
+ *
+ * @author Jayson A. Tulbo
+ * @author Gilbert B. Sanchez
+ * @version 1.0
+ */
 public class Customer {
     private String name;
     private boolean student;
