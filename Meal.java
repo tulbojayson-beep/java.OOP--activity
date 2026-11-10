@@ -1,3 +1,10 @@
+/**
+ * Represents a rice meal with optional upsize and extra sides.
+ *
+ * @author Jayson A. Tulbo
+ * @author Gilbert B. Sanchez
+ * @version 1.0
+ */
 public class Meal extends MenuItem {
     private boolean upsized;
     private int extraSides;
